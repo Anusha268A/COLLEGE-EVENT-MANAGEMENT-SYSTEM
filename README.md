@@ -154,3 +154,4 @@ CVR College of Engineering
 
 This project is created for educational and academic purposes.
 Events page update
+Homepage branch update

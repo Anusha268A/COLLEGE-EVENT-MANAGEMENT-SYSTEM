@@ -153,3 +153,4 @@ CVR College of Engineering
 ## 📜 License
 
 This project is created for educational and academic purposes.
+Events page update
